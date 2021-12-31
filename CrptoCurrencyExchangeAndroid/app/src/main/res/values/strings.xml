@@ -1,0 +1,87 @@
+<resources>
+	
+	<!-- Project level resources -->
+	<string name="app_name">CrptoCurrencyExchangeAndroid</string>
+	
+	<!-- Resources for ScreenActivity -->
+	<string name="screen_activity_text_view_text_view_hint">+$58,32 (3,5%)</string>
+	<string name="screen_activity_m_text_view_text">1M</string>
+	<string name="screen_activity_ethereum_text_view_text">Ethereum</string>
+	<string name="screen_activity_sat_text_view_hint">Sat</string>
+	<string name="screen_activity_k_three_text_view_hint">3k</string>
+	<string name="screen_activity_buy_ethereum_text_view_hint">Buy Ethereum</string>
+	<string name="screen_activity_d_two_text_view_text">7D</string>
+	<string name="screen_activity_m_text_view_hint">1M</string>
+	<string name="screen_activity_text_view_two_text_view_text">$5,251</string>
+	<string name="screen_activity_mon_text_view_text">Mon</string>
+	<string name="screen_activity_text_view_text_view_text">+$58,32 (3,5%)</string>
+	<string name="screen_activity_d_two_text_view_hint">7D</string>
+	<string name="screen_activity_sat_text_view_text">Sat</string>
+	<string name="screen_activity_sun_text_view_hint">Sun</string>
+	<string name="screen_activity_sun_text_view_text">Sun</string>
+	<string name="screen_activity_k_five_text_view_hint">1k</string>
+	<string name="screen_activity_y_text_view_hint">1Y</string>
+	<string name="screen_activity_all_text_view_hint">All</string>
+	<string name="screen_activity_k_four_text_view_text">2k</string>
+	<string name="screen_activity_wed_text_view_text">Wed</string>
+	<string name="screen_activity_k_five_text_view_text">1k</string>
+	<string name="screen_activity_ethereum_eth_text_view_text">Ethereum (ETH)</string>
+	<string name="screen_activity_d_text_view_hint">1D</string>
+	<string name="screen_activity_thus_text_view_hint">Thus</string>
+	<string name="screen_activity_all_text_view_text">All</string>
+	<string name="screen_activity_mon_text_view_hint">Mon</string>
+	<string name="screen_activity_y_two_text_view_hint">5Y</string>
+	<string name="screen_activity_k_three_text_view_text">3k</string>
+	<string name="screen_activity_tue_text_view_hint">Tue</string>
+	<string name="screen_activity_wed_text_view_hint">Wed</string>
+	<string name="screen_activity_k_two_text_view_hint">4k</string>
+	<string name="screen_activity_y_text_view_text">1Y</string>
+	<string name="screen_activity_fri_text_view_text">Fri</string>
+	<string name="screen_activity_k_text_view_text">5k</string>
+	<string name="screen_activity_ethereum_text_view_hint">Ethereum</string>
+	<string name="screen_activity_y_two_text_view_text">5Y</string>
+	<string name="screen_activity_thus_text_view_text">Thus</string>
+	<string name="screen_activity_k_four_text_view_hint">2k</string>
+	<string name="screen_activity_ethereum_eth_text_view_hint">Ethereum (ETH)</string>
+	<string name="screen_activity_k_text_view_hint">5k</string>
+	<string name="screen_activity_d_text_view_text">1D</string>
+	<string name="screen_activity_k_two_text_view_text">4k</string>
+	<string name="screen_activity_fri_text_view_hint">Fri</string>
+	<string name="screen_activity_buy_ethereum_text_view_text">Buy Ethereum</string>
+	<string name="screen_activity_tue_text_view_text">Tue</string>
+	<string name="screen_activity_text_view_two_text_view_hint">$5,251</string>
+	
+	<!-- Resources for ScreenTwoActivity -->
+	<string name="screen_two_activity_etc_text_view_hint">ETC</string>
+	<string name="screen_two_activity_exchange_now_text_view_hint">Exchange Now</string>
+	<string name="screen_two_activity_click_here_for_terms_text_view_hint">Click here for Terms &amp; Conditions\nFor this transaction fee will be taken</string>
+	<string name="screen_two_activity_text_view_two_text_view_text">6.450,25</string>
+	<string name="screen_two_activity_eth_text_view_text">ETH</string>
+	<string name="screen_two_activity_you_send_two_text_view_text">You Send</string>
+	<string name="screen_two_activity_ethereum_text_view_text">Ethereum</string>
+	<string name="screen_two_activity_eth25261_etc_text_view_hint">1 ETH = 25.261 ETC</string>
+	<string name="screen_two_activity_you_send_two_text_view_hint">You Send</string>
+	<string name="screen_two_activity_text_view_text_view_hint">6.450,25</string>
+	<string name="screen_two_activity_you_send_text_view_hint">You Send</string>
+	<string name="screen_two_activity_click_here_for_terms_text_view_text">Click here for Terms &amp; Conditions\nFor this transaction fee will be taken</string>
+	<string name="screen_two_activity_exchange_fee_text_view_text">Exchange fee</string>
+	<string name="screen_two_activity_text_view_three_text_view_text">6.450,25</string>
+	<string name="screen_two_activity_text_view_five_text_view_text">$50</string>
+	<string name="screen_two_activity_ethereum_text_view_hint">Ethereum</string>
+	<string name="screen_two_activity_text_view_five_text_view_hint">$50</string>
+	<string name="screen_two_activity_text_view_two_text_view_hint">6.450,25</string>
+	<string name="screen_two_activity_exchange_now_text_view_text">Exchange Now</string>
+	<string name="screen_two_activity_you_send_text_view_text">You Send</string>
+	<string name="screen_two_activity_text_view_four_text_view_hint">0.10%</string>
+	<string name="screen_two_activity_exchange_fee_text_view_hint">Exchange fee</string>
+	<string name="screen_two_activity_text_view_three_text_view_hint">6.450,25</string>
+	<string name="screen_two_activity_exchange_text_view_text">Exchange</string>
+	<string name="screen_two_activity_exchange_text_view_hint">Exchange</string>
+	<string name="screen_two_activity_text_view_text_view_text">6.450,25</string>
+	<string name="screen_two_activity_text_view_four_text_view_text">0.10%</string>
+	<string name="screen_two_activity_you_send_three_text_view_hint">You Send</string>
+	<string name="screen_two_activity_eth_text_view_hint">ETH</string>
+	<string name="screen_two_activity_eth25261_etc_text_view_text">1 ETH = 25.261 ETC</string>
+	<string name="screen_two_activity_you_send_three_text_view_text">You Send</string>
+	<string name="screen_two_activity_etc_text_view_text">ETC</string>
+</resources>

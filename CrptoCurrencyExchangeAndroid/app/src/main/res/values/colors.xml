@@ -1,0 +1,43 @@
+<resources>
+	
+	<!-- Project level resources -->
+	<color name="material_bottom_sheet_title">#0000008A</color>
+	<color name="color_accent">#000000</color>
+	<color name="material_bottom_sheet_item">#000000DE</color>
+	<color name="color_primary_dark">#000000</color>
+	<color name="color_primary">#000000</color>
+	<color name="color_click_overlay">#555555</color>
+	<color name="color_hint_text">#D0D1D5</color>
+	
+	<!-- Resources for ScreenActivity -->
+	<color name="screen_activity_constraint_layout_constraint_layout_background_color">#050C14</color>
+	<color name="screen_activity_ellipse2_constraint_layout_border_color">#CBC8C8</color>
+	<color name="screen_activity_ellipse6_constraint_layout_border_color">#4AC0D8</color>
+	
+	<!-- Resources for ScreenTwoActivity -->
+	<color name="screen_two_activity_ethereum_text_view_text_color">#FFFFFF</color>
+	<color name="screen_two_activity_rectangle6_constraint_layout_border_color">#61707070</color>
+	<color name="screen_two_activity_you_send_text_view_text_color">#FFFFFF</color>
+	<color name="screen_two_activity_you_send_two_text_view_text_color">#FFFFFF</color>
+	<color name="screen_two_activity_rectangle5_constraint_layout_background_color">#584AD8</color>
+	<color name="screen_two_activity_eth_text_view_text_color">#FFFFFF</color>
+	<color name="screen_two_activity_rectangle4_constraint_layout_background_color">#162230</color>
+	<color name="screen_two_activity_text_view_three_text_view_text_color">#FFFFFF</color>
+	<color name="screen_two_activity_click_here_for_terms_text_view_text_color">#FFFFFF</color>
+	<color name="screen_two_activity_exchange_text_view_text_color">#FFFFFF</color>
+	<color name="screen_two_activity_eth25261_etc_text_view_text_color">#FFFFFF</color>
+	<color name="screen_two_activity_you_send_three_text_view_text_color">#FFFFFF</color>
+	<color name="screen_two_activity_rectangle8_constraint_layout_background_color">#162230</color>
+	<color name="screen_two_activity_text_view_two_text_view_text_color">#FFFFFF</color>
+	<color name="screen_two_activity_constraint_layout_constraint_layout_background_color">#050C14</color>
+	<color name="screen_two_activity_rectangle7_constraint_layout_background_color">#162230</color>
+	<color name="screen_two_activity_exchange_now_text_view_text_color">#FFFFFF</color>
+	<color name="screen_two_activity_rectangle5_two_constraint_layout_background_color">#EC4A95</color>
+	<color name="screen_two_activity_ellipse4_constraint_layout_background_color">#32383F</color>
+	<color name="screen_two_activity_exchange_fee_text_view_text_color">#FFFFFF</color>
+	<color name="screen_two_activity_text_view_text_view_text_color">#FFFFFF</color>
+	<color name="screen_two_activity_etc_text_view_text_color">#FFFFFF</color>
+	<color name="screen_two_activity_ellipse5_constraint_layout_background_color">#4AC0D8</color>
+	<color name="screen_two_activity_text_view_five_text_view_text_color">#8FC623</color>
+	<color name="screen_two_activity_text_view_four_text_view_text_color">#FFFFFF</color>
+</resources>
